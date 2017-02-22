@@ -1,2 +1,2 @@
 # Don-Quijote-Sliding-Puzzle
-An sliding puzzle, made with only JS, Pharse and Phonegap
+An sliding puzzle game, made with Phaser, phoneGap and Js.
