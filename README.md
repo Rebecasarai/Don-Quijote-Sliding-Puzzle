@@ -24,5 +24,6 @@ All this thanks to PhoneGap.
 
 ### How to open with PhoneGap?
 
+It can be displayed by the PhoneGap server app. Only needs to be installed and that's it. Add it and display it on your phone.
 For more information about how to use Phonegap, [Click here.](http://phonegap.com/) 
 
