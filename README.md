@@ -22,3 +22,7 @@ Or open manually in the browser to play.
  
 All this thanks to PhoneGap.
 
+### How to open with PhoneGap?
+
+For more information about how to use Phonegap, [Click here.](http://phonegap.com/) 
+
