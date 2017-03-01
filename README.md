@@ -8,9 +8,17 @@ An sliding puzzle game, made with Phaser, phoneGap and Js.
 ## How to execute?...
 ```sh
 $ git clone https://github.com/Rebecasarai/Don-Quijote-Sliding-Puzzle.git
-$ cd Don-Quijote-Sliding-Puzzle
+$ cd Don-Quijote-Sliding-Puzzle/www
 $ x-www-browser index.html
 ```
 
 Or open manually in the browser to play.
+
+### It can be displayed in:
+
+ - Android Phones
+ - Iphones
+ - Browsers
+ 
+All this thanks to PhoneGap.
 
