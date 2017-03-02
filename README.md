@@ -12,7 +12,7 @@ $ cd Don-Quijote-Sliding-Puzzle/www
 $ google-chrome index.html
 ```
 
-Or open "index.html" manually in the browser to play.
+Or open /www/"index.html" manually in the browser to play.
 
 ### It can be displayed in:
 
