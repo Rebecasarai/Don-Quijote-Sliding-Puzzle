@@ -3,7 +3,7 @@
 [![N|Solid](https://d13yacurqjgara.cloudfront.net/users/158441/screenshots/2568113/800x600.jpg)](https://d13yacurqjgara.cloudfront.net/users/158441/screenshots/2568113/800x600.jpg)
 
 
-An sliding puzzle game, made with Phaser, phoneGap and Js.
+An sliding puzzle game, made with PhoneGap and JavaScript.
 
 ## How to execute?...
 ```sh
